@@ -1,0 +1,15 @@
+O:\codigo\trabajos-poo\ActividadN1\bin\Debug\net8.0\ActividadN1.exe
+O:\codigo\trabajos-poo\ActividadN1\bin\Debug\net8.0\ActividadN1.deps.json
+O:\codigo\trabajos-poo\ActividadN1\bin\Debug\net8.0\ActividadN1.runtimeconfig.json
+O:\codigo\trabajos-poo\ActividadN1\bin\Debug\net8.0\ActividadN1.dll
+O:\codigo\trabajos-poo\ActividadN1\bin\Debug\net8.0\ActividadN1.pdb
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ActividadN1.GeneratedMSBuildEditorConfig.editorconfig
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ActividadN1.AssemblyInfoInputs.cache
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ActividadN1.AssemblyInfo.cs
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ActividadN1.csproj.CoreCompileInputs.cache
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ActividadN1.sourcelink.json
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ActividadN1.dll
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\refint\ActividadN1.dll
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ActividadN1.pdb
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ActividadN1.genruntimeconfig.cache
+O:\codigo\trabajos-poo\ActividadN1\obj\Debug\net8.0\ref\ActividadN1.dll
