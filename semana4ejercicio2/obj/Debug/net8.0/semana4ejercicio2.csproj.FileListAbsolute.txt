@@ -1,0 +1,15 @@
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\bin\Debug\net8.0\semana4ejercicio2.exe
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\bin\Debug\net8.0\semana4ejercicio2.deps.json
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\bin\Debug\net8.0\semana4ejercicio2.runtimeconfig.json
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\bin\Debug\net8.0\semana4ejercicio2.dll
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\bin\Debug\net8.0\semana4ejercicio2.pdb
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\semana4ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\semana4ejercicio2.AssemblyInfoInputs.cache
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\semana4ejercicio2.AssemblyInfo.cs
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\semana4ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\semana4ejercicio2.sourcelink.json
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\semana4ejercicio2.dll
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\refint\semana4ejercicio2.dll
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\semana4ejercicio2.pdb
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\semana4ejercicio2.genruntimeconfig.cache
+C:\Users\user23\Downloads\IFTS\POO2025\trabajos-poo\semana4ejercicio2\obj\Debug\net8.0\ref\semana4ejercicio2.dll
