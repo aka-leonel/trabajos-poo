@@ -1,0 +1,14 @@
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\bin\Debug\net8.0\ejercicio3delta.exe
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\bin\Debug\net8.0\ejercicio3delta.deps.json
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\bin\Debug\net8.0\ejercicio3delta.runtimeconfig.json
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\bin\Debug\net8.0\ejercicio3delta.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\bin\Debug\net8.0\ejercicio3delta.pdb
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\ejercicio3delta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\ejercicio3delta.AssemblyInfoInputs.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\ejercicio3delta.AssemblyInfo.cs
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\ejercicio3delta.csproj.CoreCompileInputs.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\ejercicio3delta.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\refint\ejercicio3delta.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\ejercicio3delta.pdb
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\ejercicio3delta.genruntimeconfig.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3delta\obj\Debug\net8.0\ref\ejercicio3delta.dll

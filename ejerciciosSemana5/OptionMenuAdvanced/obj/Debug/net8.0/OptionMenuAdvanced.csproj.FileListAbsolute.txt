@@ -1,0 +1,14 @@
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\bin\Debug\net8.0\OptionMenuAdvanced.exe
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\bin\Debug\net8.0\OptionMenuAdvanced.deps.json
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\bin\Debug\net8.0\OptionMenuAdvanced.runtimeconfig.json
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\bin\Debug\net8.0\OptionMenuAdvanced.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\bin\Debug\net8.0\OptionMenuAdvanced.pdb
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\OptionMenuAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\OptionMenuAdvanced.AssemblyInfoInputs.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\OptionMenuAdvanced.AssemblyInfo.cs
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\OptionMenuAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\OptionMenuAdvanced.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\refint\OptionMenuAdvanced.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\OptionMenuAdvanced.pdb
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\OptionMenuAdvanced.genruntimeconfig.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\OptionMenuAdvanced\obj\Debug\net8.0\ref\OptionMenuAdvanced.dll

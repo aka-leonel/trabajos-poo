@@ -1,0 +1,14 @@
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\bin\Debug\net8.0\ejercicio3beta.exe
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\bin\Debug\net8.0\ejercicio3beta.deps.json
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\bin\Debug\net8.0\ejercicio3beta.runtimeconfig.json
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\bin\Debug\net8.0\ejercicio3beta.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\bin\Debug\net8.0\ejercicio3beta.pdb
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\ejercicio3beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\ejercicio3beta.AssemblyInfoInputs.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\ejercicio3beta.AssemblyInfo.cs
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\ejercicio3beta.csproj.CoreCompileInputs.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\ejercicio3beta.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\refint\ejercicio3beta.dll
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\ejercicio3beta.pdb
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\ejercicio3beta.genruntimeconfig.cache
+C:\Users\user23\source\repos\ejerciciosSemana5\ejercicio3beta\obj\Debug\net8.0\ref\ejercicio3beta.dll
