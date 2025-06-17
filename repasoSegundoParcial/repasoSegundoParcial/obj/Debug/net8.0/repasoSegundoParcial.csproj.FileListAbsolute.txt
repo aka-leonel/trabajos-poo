@@ -1,0 +1,14 @@
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\bin\Debug\net8.0\repasoSegundoParcial.exe
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\bin\Debug\net8.0\repasoSegundoParcial.deps.json
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\bin\Debug\net8.0\repasoSegundoParcial.runtimeconfig.json
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\bin\Debug\net8.0\repasoSegundoParcial.dll
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\bin\Debug\net8.0\repasoSegundoParcial.pdb
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\repasoSegundoParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\repasoSegundoParcial.AssemblyInfoInputs.cache
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\repasoSegundoParcial.AssemblyInfo.cs
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\repasoSegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\repasoSegundoParcial.dll
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\refint\repasoSegundoParcial.dll
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\repasoSegundoParcial.pdb
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\repasoSegundoParcial.genruntimeconfig.cache
+C:\Users\user23\source\repos\repasoSegundoParcial\repasoSegundoParcial\obj\Debug\net8.0\ref\repasoSegundoParcial.dll

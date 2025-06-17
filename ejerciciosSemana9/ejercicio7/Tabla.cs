@@ -157,6 +157,17 @@ namespace ejercicio7
                         Console.WriteLine("*** SALIR ***");
                         salir = true;
                         break;
+                    case -1://debugg option
+                        Console.WriteLine("**Solo para testing**");
+                        Console.WriteLine("*** Listado completo -eliminados incluidos- ***");
+                        foreach (var item in Registros)
+                        {
+                            
+                            {
+                                item.MostrarInfo();
+                            }
+                        }
+                        break;
                     default:
                         Console.WriteLine("*** Opcion incorrecta.");
                         break;

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{5E3C19E6-BCDF-45C1-AF77-6B1F84373888}|ejercicio7\\ejercicio7.csproj|solutionrelative:ejercicio7\\tabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E3C19E6-BCDF-45C1-AF77-6B1F84373888}|ejercicio7\\ejercicio7.csproj|c:\\users\\user23\\source\\repos\\ejerciciossemana9\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E3C19E6-BCDF-45C1-AF77-6B1F84373888}|ejercicio7\\ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E3C19E6-BCDF-45C1-AF77-6B1F84373888}|ejercicio7\\ejercicio7.csproj|c:\\users\\user23\\source\\repos\\ejerciciossemana9\\ejercicio7\\ihttpmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E3C19E6-BCDF-45C1-AF77-6B1F84373888}|ejercicio7\\ejercicio7.csproj|solutionrelative:ejercicio7\\ihttpmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3C19E6-BCDF-45C1-AF77-6B1F84373888}|ejercicio7\\ejercicio7.csproj|c:\\users\\user23\\source\\repos\\ejerciciossemana9\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3C19E6-BCDF-45C1-AF77-6B1F84373888}|ejercicio7\\ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E3C19E6-BCDF-45C1-AF77-6B1F84373888}|ejercicio7\\ejercicio7.csproj|c:\\users\\user23\\source\\repos\\ejerciciossemana9\\ejercicio7\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "ejercicio7\\Tabla.cs",
               "ToolTip": "C:\\Users\\user23\\source\\repos\\ejerciciosSemana9\\ejercicio7\\Tabla.cs",
               "RelativeToolTip": "ejercicio7\\Tabla.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAIwIUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T01:44:12.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IHTTPMethods.cs",
               "DocumentMoniker": "C:\\Users\\user23\\source\\repos\\ejerciciosSemana9\\ejercicio7\\IHTTPMethods.cs",
               "RelativeDocumentMoniker": "ejercicio7\\IHTTPMethods.cs",
@@ -67,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user23\\source\\repos\\ejerciciosSemana9\\ejercicio7\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio7\\Program.cs",
               "ToolTip": "C:\\Users\\user23\\source\\repos\\ejerciciosSemana9\\ejercicio7\\Program.cs",
               "RelativeToolTip": "ejercicio7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAsAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T00:22:13.619Z"
             }
