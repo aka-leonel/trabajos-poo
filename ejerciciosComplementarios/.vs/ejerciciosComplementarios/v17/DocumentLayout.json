@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|c:\\users\\user23\\source\\repos\\ejercicioscomplementarios\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|c:\\users\\user23\\source\\repos\\ejercicioscomplementarios\\ejercicio4\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|c:\\users\\user23\\source\\repos\\ejercicioscomplementarios\\ejercicio4\\models\\smsnotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\models\\smsnotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|c:\\users\\user23\\source\\repos\\ejercicioscomplementarios\\ejercicio4\\models\\emailnotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\models\\emailnotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|c:\\users\\user23\\source\\repos\\ejercicioscomplementarios\\ejercicio4\\models\\notificacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\models\\notificacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|c:\\users\\user23\\source\\repos\\ejercicioscomplementarios\\ejercicio4\\models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BC3601-EE68-4259-937E-AD2526B030AF}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmsNotificacion.cs",
+              "DocumentMoniker": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\models\\SmsNotificacion.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\models\\SmsNotificacion.cs",
+              "ToolTip": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\models\\SmsNotificacion.cs",
+              "RelativeToolTip": "ejercicio4\\models\\SmsNotificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:30:20.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotificacion.cs",
+              "DocumentMoniker": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\models\\EmailNotificacion.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\models\\EmailNotificacion.cs",
+              "ToolTip": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\models\\EmailNotificacion.cs",
+              "RelativeToolTip": "ejercicio4\\models\\EmailNotificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:24:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificacionInterna.cs",
+              "DocumentMoniker": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\models\\NotificacionInterna.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\models\\NotificacionInterna.cs",
+              "ToolTip": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\models\\NotificacionInterna.cs",
+              "RelativeToolTip": "ejercicio4\\models\\NotificacionInterna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:32:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\models\\Notificacion.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\models\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\models\\Notificacion.cs",
+              "RelativeToolTip": "ejercicio4\\models\\Notificacion.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:22:34.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificacionController.cs",
+              "DocumentMoniker": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\controllers\\NotificacionController.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\controllers\\NotificacionController.cs",
+              "ToolTip": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\controllers\\NotificacionController.cs",
+              "RelativeToolTip": "ejercicio4\\controllers\\NotificacionController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:34:32.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\user23\\source\\repos\\ejerciciosComplementarios\\ejercicio4\\Program.cs",
+              "RelativeToolTip": "ejercicio4\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:21:30.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
